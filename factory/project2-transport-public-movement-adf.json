@@ -1,0 +1,15 @@
+{
+	"name": "project2-transport-public-movement-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72f8af4b-720d-4d1a-be0e-e0d2f439203b",
+		"tenantId": "a45d53b4-56ee-481f-a368-d115caf28966"
+	}
+}
